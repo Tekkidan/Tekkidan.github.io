@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Github Page
 
-You can use the [editor on GitHub](https://github.com/Tekkidan/Tekkidan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page was created as per the guidelines of my UAT project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since I (as of now) have no idea what to add here, below is just the default layout.
 
 ### Markdown
 
